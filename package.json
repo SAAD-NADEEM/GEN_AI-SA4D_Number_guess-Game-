@@ -1,6 +1,6 @@
 {
   "name": "sa4d-ngg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple number guessing game using CLI.",
   "main": "index.js",
   "type":"module",
